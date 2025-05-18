@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:40:50.391540502+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_194050-xxfnpcvm/logs/debug-core.log"}
+{"time":"2025-05-18T19:40:50.495101306+05:30","level":"INFO","msg":"created new stream","id":"xxfnpcvm"}
+{"time":"2025-05-18T19:40:50.495153617+05:30","level":"INFO","msg":"stream: started","id":"xxfnpcvm"}
+{"time":"2025-05-18T19:40:50.495176525+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xxfnpcvm"}
+{"time":"2025-05-18T19:40:50.495225344+05:30","level":"INFO","msg":"handler: started","stream_id":"xxfnpcvm"}
+{"time":"2025-05-18T19:40:50.495274443+05:30","level":"INFO","msg":"sender: started","stream_id":"xxfnpcvm"}
+{"time":"2025-05-18T19:40:50.971510894+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:44:28.856227862+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:44:28.857294067+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:44:29.811820196+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.176142976,"progress":"79B/79B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.176131103,"progress":"176B/176B"}],"total_operations":2}}
+{"time":"2025-05-18T19:44:30.418639833+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:44:31.930364077+05:30","level":"INFO","msg":"stream: closing","id":"xxfnpcvm"}
+{"time":"2025-05-18T19:44:31.930390757+05:30","level":"INFO","msg":"handler: closed","stream_id":"xxfnpcvm"}
+{"time":"2025-05-18T19:44:31.930405144+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xxfnpcvm"}
+{"time":"2025-05-18T19:44:31.930413665+05:30","level":"INFO","msg":"sender: closed","stream_id":"xxfnpcvm"}
+{"time":"2025-05-18T19:44:31.930489443+05:30","level":"INFO","msg":"stream: closed","id":"xxfnpcvm"}

@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:44:35.334511233+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_194435-tthjzlal/logs/debug-core.log"}
+{"time":"2025-05-18T19:44:35.438457914+05:30","level":"INFO","msg":"created new stream","id":"tthjzlal"}
+{"time":"2025-05-18T19:44:35.438487946+05:30","level":"INFO","msg":"stream: started","id":"tthjzlal"}
+{"time":"2025-05-18T19:44:35.438501845+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tthjzlal"}
+{"time":"2025-05-18T19:44:35.438546125+05:30","level":"INFO","msg":"sender: started","stream_id":"tthjzlal"}
+{"time":"2025-05-18T19:44:35.43856149+05:30","level":"INFO","msg":"handler: started","stream_id":"tthjzlal"}
+{"time":"2025-05-18T19:44:35.896670844+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:47:38.831511921+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:47:38.832046281+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:47:39.79430055+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.252746083,"progress":"79B/79B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.252732533,"progress":"175B/175B"}],"total_operations":2}}
+{"time":"2025-05-18T19:47:40.28040713+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:47:41.710001682+05:30","level":"INFO","msg":"stream: closing","id":"tthjzlal"}
+{"time":"2025-05-18T19:47:41.710030318+05:30","level":"INFO","msg":"handler: closed","stream_id":"tthjzlal"}
+{"time":"2025-05-18T19:47:41.7100424+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tthjzlal"}
+{"time":"2025-05-18T19:47:41.710075296+05:30","level":"INFO","msg":"sender: closed","stream_id":"tthjzlal"}
+{"time":"2025-05-18T19:47:41.710134661+05:30","level":"INFO","msg":"stream: closed","id":"tthjzlal"}

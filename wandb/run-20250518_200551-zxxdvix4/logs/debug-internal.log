@@ -1,0 +1,16 @@
+{"time":"2025-05-18T20:05:51.239153335+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_200551-zxxdvix4/logs/debug-core.log"}
+{"time":"2025-05-18T20:05:51.342546359+05:30","level":"INFO","msg":"created new stream","id":"zxxdvix4"}
+{"time":"2025-05-18T20:05:51.342854572+05:30","level":"INFO","msg":"stream: started","id":"zxxdvix4"}
+{"time":"2025-05-18T20:05:51.343042796+05:30","level":"INFO","msg":"sender: started","stream_id":"zxxdvix4"}
+{"time":"2025-05-18T20:05:51.343526101+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zxxdvix4"}
+{"time":"2025-05-18T20:05:51.343686738+05:30","level":"INFO","msg":"handler: started","stream_id":"zxxdvix4"}
+{"time":"2025-05-18T20:05:51.741296612+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T20:09:36.120163791+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T20:09:36.121597449+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T20:09:37.081738508+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.207186516,"progress":"79B/79B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.207173596,"progress":"176B/176B"}],"total_operations":2}}
+{"time":"2025-05-18T20:09:37.76949666+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T20:09:39.540490684+05:30","level":"INFO","msg":"stream: closing","id":"zxxdvix4"}
+{"time":"2025-05-18T20:09:39.540511634+05:30","level":"INFO","msg":"handler: closed","stream_id":"zxxdvix4"}
+{"time":"2025-05-18T20:09:39.540527487+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zxxdvix4"}
+{"time":"2025-05-18T20:09:39.540550812+05:30","level":"INFO","msg":"sender: closed","stream_id":"zxxdvix4"}
+{"time":"2025-05-18T20:09:39.540623651+05:30","level":"INFO","msg":"stream: closed","id":"zxxdvix4"}

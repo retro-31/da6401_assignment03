@@ -1,0 +1,31 @@
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_setup.py:_flush():67] Current SDK version is 0.19.7.dev1
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_setup.py:_flush():67] Configure stats pid to 56676
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_setup.py:_flush():67] Loading settings from /home/akshay/.config/wandb/settings
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_setup.py:_flush():67] Loading settings from /home/akshay/Desktop/DL/da6401_assignment03/wandb/settings
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_191308-y3vscfcp/logs/debug.log
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_191308-y3vscfcp/logs/debug-internal.log
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():761] calling init triggers
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():766] wandb.init called with sweep_config: {'batch_size': 64, 'beam_size': 3, 'cell_type': 'RNN', 'decoder_layers': 2, 'dropout': 0.2, 'embed_dim': 32, 'encoder_layers': 1, 'epochs': 10, 'hidden_dim': 16, 'lr': 0.001, 'max_len': 32}
+config: {'embed_dim': 64, 'hidden_dim': 64, 'encoder_layers': 1, 'decoder_layers': 1, 'cell_type': 'GRU', 'dropout': 0.2, 'beam_size': 1, 'max_len': 32, 'batch_size': 64, 'lr': 0.001, 'epochs': 5, '_wandb': {}}
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():784] starting backend
+2025-05-18 19:13:08,042 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():788] sending inform_init request
+2025-05-18 19:13:08,047 INFO    Thread-2 (_run_job):56676 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-05-18 19:13:08,048 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():803] backend started and connected
+2025-05-18 19:13:08,048 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_config_callback():1261] config_cb None None {'batch_size': 64, 'beam_size': 3, 'cell_type': 'RNN', 'decoder_layers': 2, 'dropout': 0.2, 'embed_dim': 32, 'encoder_layers': 1, 'epochs': 10, 'hidden_dim': 16, 'lr': 0.001, 'max_len': 32}
+2025-05-18 19:13:08,048 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():896] updated telemetry
+2025-05-18 19:13:08,050 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-05-18 19:13:08,691 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():995] starting run threads in backend
+2025-05-18 19:13:08,854 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_console_start():2377] atexit reg
+2025-05-18 19:13:08,854 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-05-18 19:13:08,854 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-05-18 19:13:08,854 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_redirect():2317] Redirects installed.
+2025-05-18 19:13:08,856 INFO    Thread-2 (_run_job):56676 [wandb_init.py:init():1037] run started, returning control to user process
+2025-05-18 19:14:48,592 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_finish():2112] finishing run retro-31-indian-institute-of-technology-madras/assignment-03/y3vscfcp
+2025-05-18 19:14:48,592 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-05-18 19:14:48,593 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_restore():2324] restore
+2025-05-18 19:14:48,593 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_restore():2330] restore done
+2025-05-18 19:14:51,582 INFO    MsgRouterThr:56676 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-05-18 19:14:51,583 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-05-18 19:14:51,583 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-05-18 19:14:51,583 INFO    Thread-2 (_run_job):56676 [wandb_run.py:_footer_sync_info():3919] logging synced files

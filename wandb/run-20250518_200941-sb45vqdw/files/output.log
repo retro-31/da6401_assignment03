@@ -1,0 +1,3 @@
+/home/akshay/anaconda3/envs/ML_gpu/lib/python3.10/site-packages/torch/nn/modules/rnn.py:123: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.3 and num_layers=1
+  warnings.warn(
+Run GRU_enc3_dec1_hd64_ed64_dr30_bs5 (best 0.5383) did not beat global 0.5558

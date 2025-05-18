@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-6.1.0-35-amd64-x86_64-with-glibc2.36",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-05-18T13:20:15.134592Z",
+  "program":  "/home/akshay/Desktop/DL/da6401_assignment03/sweep.py",
+  "codePath":  "sweep.py",
+  "git":  {
+    "remote":  "https://github.com/retro-31/da6401_assignment03.git"
+  },
+  "email":  "me21b014@smail.iitm.ac.in",
+  "root":  "/home/akshay/Desktop/DL/da6401_assignment03",
+  "host":  "akshay",
+  "executable":  "/home/akshay/anaconda3/envs/ML_gpu/bin/python",
+  "codePathLocal":  "sweep.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "981813280768",
+      "used":  "327080669184"
+    }
+  },
+  "memory":  {
+    "total":  "16611704832"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "memoryTotal":  "6442450944",
+      "cudaCores":  3840,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

@@ -1,0 +1,16 @@
+{"time":"2025-05-18T20:09:41.915164215+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_200941-sb45vqdw/logs/debug-core.log"}
+{"time":"2025-05-18T20:09:42.020074784+05:30","level":"INFO","msg":"created new stream","id":"sb45vqdw"}
+{"time":"2025-05-18T20:09:42.020107677+05:30","level":"INFO","msg":"stream: started","id":"sb45vqdw"}
+{"time":"2025-05-18T20:09:42.020142874+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"sb45vqdw"}
+{"time":"2025-05-18T20:09:42.020181004+05:30","level":"INFO","msg":"sender: started","stream_id":"sb45vqdw"}
+{"time":"2025-05-18T20:09:42.020180096+05:30","level":"INFO","msg":"handler: started","stream_id":"sb45vqdw"}
+{"time":"2025-05-18T20:09:42.44612742+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T20:12:00.4887438+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T20:12:00.489324393+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T20:12:01.490336414+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.300788853,"progress":"357B/357B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.300766223,"progress":"175B/175B"}],"total_operations":2}}
+{"time":"2025-05-18T20:12:02.108642451+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T20:12:03.483000138+05:30","level":"INFO","msg":"stream: closing","id":"sb45vqdw"}
+{"time":"2025-05-18T20:12:03.483041135+05:30","level":"INFO","msg":"handler: closed","stream_id":"sb45vqdw"}
+{"time":"2025-05-18T20:12:03.483059224+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"sb45vqdw"}
+{"time":"2025-05-18T20:12:03.483071656+05:30","level":"INFO","msg":"sender: closed","stream_id":"sb45vqdw"}
+{"time":"2025-05-18T20:12:03.483148552+05:30","level":"INFO","msg":"stream: closed","id":"sb45vqdw"}

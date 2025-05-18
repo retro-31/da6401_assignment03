@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:17:31.050927252+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_191731-w87dtjmq/logs/debug-core.log"}
+{"time":"2025-05-18T19:17:31.15560367+05:30","level":"INFO","msg":"created new stream","id":"w87dtjmq"}
+{"time":"2025-05-18T19:17:31.155629442+05:30","level":"INFO","msg":"stream: started","id":"w87dtjmq"}
+{"time":"2025-05-18T19:17:31.155650394+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w87dtjmq"}
+{"time":"2025-05-18T19:17:31.155679518+05:30","level":"INFO","msg":"handler: started","stream_id":"w87dtjmq"}
+{"time":"2025-05-18T19:17:31.155717233+05:30","level":"INFO","msg":"sender: started","stream_id":"w87dtjmq"}
+{"time":"2025-05-18T19:17:31.543426459+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:19:55.664666423+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:19:55.665300658+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:19:56.625258264+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.170284819,"progress":"343B/343B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.170274482,"progress":"175B/175B"}],"total_operations":2}}
+{"time":"2025-05-18T19:19:57.370633475+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:19:58.757018764+05:30","level":"INFO","msg":"stream: closing","id":"w87dtjmq"}
+{"time":"2025-05-18T19:19:58.757044535+05:30","level":"INFO","msg":"handler: closed","stream_id":"w87dtjmq"}
+{"time":"2025-05-18T19:19:58.757065558+05:30","level":"INFO","msg":"sender: closed","stream_id":"w87dtjmq"}
+{"time":"2025-05-18T19:19:58.757057805+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w87dtjmq"}
+{"time":"2025-05-18T19:19:58.757154536+05:30","level":"INFO","msg":"stream: closed","id":"w87dtjmq"}

@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:54:22.764092778+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_195422-mnzwg1zs/logs/debug-core.log"}
+{"time":"2025-05-18T19:54:22.867776296+05:30","level":"INFO","msg":"created new stream","id":"mnzwg1zs"}
+{"time":"2025-05-18T19:54:22.86793756+05:30","level":"INFO","msg":"stream: started","id":"mnzwg1zs"}
+{"time":"2025-05-18T19:54:22.867957465+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mnzwg1zs"}
+{"time":"2025-05-18T19:54:22.867990361+05:30","level":"INFO","msg":"handler: started","stream_id":"mnzwg1zs"}
+{"time":"2025-05-18T19:54:22.868031987+05:30","level":"INFO","msg":"sender: started","stream_id":"mnzwg1zs"}
+{"time":"2025-05-18T19:54:23.27949194+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:56:42.916975725+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:56:42.917416008+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:56:43.92396503+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.30558417,"progress":"357B/357B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.305572367,"progress":"175B/175B"}],"total_operations":2}}
+{"time":"2025-05-18T19:56:44.294008833+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:56:45.678901664+05:30","level":"INFO","msg":"stream: closing","id":"mnzwg1zs"}
+{"time":"2025-05-18T19:56:45.678924642+05:30","level":"INFO","msg":"handler: closed","stream_id":"mnzwg1zs"}
+{"time":"2025-05-18T19:56:45.678936865+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mnzwg1zs"}
+{"time":"2025-05-18T19:56:45.678958027+05:30","level":"INFO","msg":"sender: closed","stream_id":"mnzwg1zs"}
+{"time":"2025-05-18T19:56:45.679025704+05:30","level":"INFO","msg":"stream: closed","id":"mnzwg1zs"}

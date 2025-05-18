@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:50:37.2251138+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_195037-eu1psw3j/logs/debug-core.log"}
+{"time":"2025-05-18T19:50:37.329537013+05:30","level":"INFO","msg":"created new stream","id":"eu1psw3j"}
+{"time":"2025-05-18T19:50:37.329563762+05:30","level":"INFO","msg":"stream: started","id":"eu1psw3j"}
+{"time":"2025-05-18T19:50:37.329590931+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"eu1psw3j"}
+{"time":"2025-05-18T19:50:37.329616074+05:30","level":"INFO","msg":"handler: started","stream_id":"eu1psw3j"}
+{"time":"2025-05-18T19:50:37.329636119+05:30","level":"INFO","msg":"sender: started","stream_id":"eu1psw3j"}
+{"time":"2025-05-18T19:50:37.731463414+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:54:14.787841493+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:54:14.788688466+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:54:15.749584591+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.205213182,"progress":"65B/65B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.205184477,"progress":"176B/176B"}],"total_operations":2}}
+{"time":"2025-05-18T19:54:16.252045619+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:54:17.654298621+05:30","level":"INFO","msg":"stream: closing","id":"eu1psw3j"}
+{"time":"2025-05-18T19:54:17.654374958+05:30","level":"INFO","msg":"handler: closed","stream_id":"eu1psw3j"}
+{"time":"2025-05-18T19:54:17.654411695+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"eu1psw3j"}
+{"time":"2025-05-18T19:54:17.654450457+05:30","level":"INFO","msg":"sender: closed","stream_id":"eu1psw3j"}
+{"time":"2025-05-18T19:54:17.654681773+05:30","level":"INFO","msg":"stream: closed","id":"eu1psw3j"}

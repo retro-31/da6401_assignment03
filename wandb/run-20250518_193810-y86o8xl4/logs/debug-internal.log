@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:38:10.684386039+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_193810-y86o8xl4/logs/debug-core.log"}
+{"time":"2025-05-18T19:38:10.787070263+05:30","level":"INFO","msg":"created new stream","id":"y86o8xl4"}
+{"time":"2025-05-18T19:38:10.787094638+05:30","level":"INFO","msg":"stream: started","id":"y86o8xl4"}
+{"time":"2025-05-18T19:38:10.787147508+05:30","level":"INFO","msg":"sender: started","stream_id":"y86o8xl4"}
+{"time":"2025-05-18T19:38:10.787493642+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y86o8xl4"}
+{"time":"2025-05-18T19:38:10.78750747+05:30","level":"INFO","msg":"handler: started","stream_id":"y86o8xl4"}
+{"time":"2025-05-18T19:38:11.201066588+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:40:36.812013922+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:40:36.81278986+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:40:37.772226787+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.297414294,"progress":"78B/78B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.297401443,"progress":"175B/175B"}],"total_operations":2}}
+{"time":"2025-05-18T19:40:38.181087046+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:40:39.562283587+05:30","level":"INFO","msg":"stream: closing","id":"y86o8xl4"}
+{"time":"2025-05-18T19:40:39.562359784+05:30","level":"INFO","msg":"handler: closed","stream_id":"y86o8xl4"}
+{"time":"2025-05-18T19:40:39.562393657+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y86o8xl4"}
+{"time":"2025-05-18T19:40:39.562413283+05:30","level":"INFO","msg":"sender: closed","stream_id":"y86o8xl4"}
+{"time":"2025-05-18T19:40:39.562655493+05:30","level":"INFO","msg":"stream: closed","id":"y86o8xl4"}

@@ -1,0 +1,24 @@
+wandb_version: 1
+
+batch_size:
+  value: 64
+beam_size:
+  value: 3
+cell_type:
+  value: RNN
+decoder_layers:
+  value: 2
+dropout:
+  value: 0.2
+embed_dim:
+  value: 32
+encoder_layers:
+  value: 1
+epochs:
+  value: 10
+hidden_dim:
+  value: 16
+lr:
+  value: 0.001
+max_len:
+  value: 32

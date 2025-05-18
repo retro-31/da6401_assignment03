@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:25:00.692176356+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_192500-kaoth48o/logs/debug-core.log"}
+{"time":"2025-05-18T19:25:00.796204049+05:30","level":"INFO","msg":"created new stream","id":"kaoth48o"}
+{"time":"2025-05-18T19:25:00.79623003+05:30","level":"INFO","msg":"stream: started","id":"kaoth48o"}
+{"time":"2025-05-18T19:25:00.796264811+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"kaoth48o"}
+{"time":"2025-05-18T19:25:00.796304481+05:30","level":"INFO","msg":"sender: started","stream_id":"kaoth48o"}
+{"time":"2025-05-18T19:25:00.796329205+05:30","level":"INFO","msg":"handler: started","stream_id":"kaoth48o"}
+{"time":"2025-05-18T19:25:01.210967512+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:28:25.911541749+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:28:25.912590138+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:28:26.87397969+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.292926007,"progress":"358B/358B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2929119,"progress":"175B/175B"},{"desc":"uploading config.yaml","runtime_seconds":0.009310624,"progress":"877B/877B"}],"total_operations":3}}
+{"time":"2025-05-18T19:28:27.20682354+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:28:28.580291294+05:30","level":"INFO","msg":"stream: closing","id":"kaoth48o"}
+{"time":"2025-05-18T19:28:28.580313085+05:30","level":"INFO","msg":"handler: closed","stream_id":"kaoth48o"}
+{"time":"2025-05-18T19:28:28.580330335+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"kaoth48o"}
+{"time":"2025-05-18T19:28:28.580348913+05:30","level":"INFO","msg":"sender: closed","stream_id":"kaoth48o"}
+{"time":"2025-05-18T19:28:28.580428672+05:30","level":"INFO","msg":"stream: closed","id":"kaoth48o"}

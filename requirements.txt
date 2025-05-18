@@ -1,0 +1,5 @@
+torch
+torchtext       # for tokenizer (optional)
+pandas
+numpy
+wandb

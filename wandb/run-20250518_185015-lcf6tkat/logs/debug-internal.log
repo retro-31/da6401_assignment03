@@ -1,0 +1,16 @@
+{"time":"2025-05-18T18:50:15.135720619+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_185015-lcf6tkat/logs/debug-core.log"}
+{"time":"2025-05-18T18:50:15.23990304+05:30","level":"INFO","msg":"created new stream","id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:15.239939497+05:30","level":"INFO","msg":"stream: started","id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:15.2399601+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:15.239979097+05:30","level":"INFO","msg":"sender: started","stream_id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:15.239998652+05:30","level":"INFO","msg":"handler: started","stream_id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:15.638082286+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T18:50:15.839533527+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T18:50:15.840015852+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T18:50:16.828980242+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-05-18T18:50:17.619425054+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T18:50:18.984825666+05:30","level":"INFO","msg":"stream: closing","id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:18.984848923+05:30","level":"INFO","msg":"handler: closed","stream_id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:18.984859958+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:18.984893342+05:30","level":"INFO","msg":"sender: closed","stream_id":"lcf6tkat"}
+{"time":"2025-05-18T18:50:18.984926238+05:30","level":"INFO","msg":"stream: closed","id":"lcf6tkat"}

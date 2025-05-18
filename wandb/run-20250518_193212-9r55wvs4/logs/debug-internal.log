@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:32:12.709606657+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_193212-9r55wvs4/logs/debug-core.log"}
+{"time":"2025-05-18T19:32:12.812415967+05:30","level":"INFO","msg":"created new stream","id":"9r55wvs4"}
+{"time":"2025-05-18T19:32:12.81244558+05:30","level":"INFO","msg":"stream: started","id":"9r55wvs4"}
+{"time":"2025-05-18T19:32:12.812462272+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"9r55wvs4"}
+{"time":"2025-05-18T19:32:12.812474634+05:30","level":"INFO","msg":"handler: started","stream_id":"9r55wvs4"}
+{"time":"2025-05-18T19:32:12.812501872+05:30","level":"INFO","msg":"sender: started","stream_id":"9r55wvs4"}
+{"time":"2025-05-18T19:32:13.222006768+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:35:33.202387973+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:35:33.202820082+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:35:34.203476625+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.236161934,"progress":"359B/359B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.236155718,"progress":"174B/174B"}],"total_operations":2}}
+{"time":"2025-05-18T19:35:34.745603813+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:35:36.372932494+05:30","level":"INFO","msg":"stream: closing","id":"9r55wvs4"}
+{"time":"2025-05-18T19:35:36.373002056+05:30","level":"INFO","msg":"handler: closed","stream_id":"9r55wvs4"}
+{"time":"2025-05-18T19:35:36.373030482+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"9r55wvs4"}
+{"time":"2025-05-18T19:35:36.373074202+05:30","level":"INFO","msg":"sender: closed","stream_id":"9r55wvs4"}
+{"time":"2025-05-18T19:35:36.373223942+05:30","level":"INFO","msg":"stream: closed","id":"9r55wvs4"}

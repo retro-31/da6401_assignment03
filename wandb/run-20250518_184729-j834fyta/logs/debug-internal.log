@@ -1,0 +1,16 @@
+{"time":"2025-05-18T18:47:29.90650881+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_184729-j834fyta/logs/debug-core.log"}
+{"time":"2025-05-18T18:47:30.012097771+05:30","level":"INFO","msg":"created new stream","id":"j834fyta"}
+{"time":"2025-05-18T18:47:30.012168312+05:30","level":"INFO","msg":"stream: started","id":"j834fyta"}
+{"time":"2025-05-18T18:47:30.012625776+05:30","level":"INFO","msg":"sender: started","stream_id":"j834fyta"}
+{"time":"2025-05-18T18:47:30.012935734+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"j834fyta"}
+{"time":"2025-05-18T18:47:30.013072973+05:30","level":"INFO","msg":"handler: started","stream_id":"j834fyta"}
+{"time":"2025-05-18T18:47:30.634819736+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T18:50:08.963749671+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T18:50:08.964231926+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T18:50:09.922637071+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.231688587},{"desc":"uploading wandb-summary.json","runtime_seconds":0.231676086,"progress":"176B/176B"}],"total_operations":2}}
+{"time":"2025-05-18T18:50:10.417917728+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T18:50:11.802838453+05:30","level":"INFO","msg":"stream: closing","id":"j834fyta"}
+{"time":"2025-05-18T18:50:11.80286618+05:30","level":"INFO","msg":"handler: closed","stream_id":"j834fyta"}
+{"time":"2025-05-18T18:50:11.802888459+05:30","level":"INFO","msg":"sender: closed","stream_id":"j834fyta"}
+{"time":"2025-05-18T18:50:11.802882663+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"j834fyta"}
+{"time":"2025-05-18T18:50:11.802976809+05:30","level":"INFO","msg":"stream: closed","id":"j834fyta"}

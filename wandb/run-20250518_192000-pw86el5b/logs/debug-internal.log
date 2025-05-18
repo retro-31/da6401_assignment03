@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:20:00.696367796+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_192000-pw86el5b/logs/debug-core.log"}
+{"time":"2025-05-18T19:20:00.800438683+05:30","level":"INFO","msg":"created new stream","id":"pw86el5b"}
+{"time":"2025-05-18T19:20:00.800474931+05:30","level":"INFO","msg":"stream: started","id":"pw86el5b"}
+{"time":"2025-05-18T19:20:00.800502099+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pw86el5b"}
+{"time":"2025-05-18T19:20:00.80053723+05:30","level":"INFO","msg":"sender: started","stream_id":"pw86el5b"}
+{"time":"2025-05-18T19:20:00.800571802+05:30","level":"INFO","msg":"handler: started","stream_id":"pw86el5b"}
+{"time":"2025-05-18T19:20:01.472738822+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:21:06.054582551+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:21:06.05506055+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:21:07.055716565+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.360808735,"progress":"79B/79B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.360797492,"progress":"173B/173B"},{"desc":"uploading config.yaml","runtime_seconds":0.065415777,"progress":"877B/877B"}],"total_operations":3}}
+{"time":"2025-05-18T19:21:07.403649855+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:21:08.837388239+05:30","level":"INFO","msg":"stream: closing","id":"pw86el5b"}
+{"time":"2025-05-18T19:21:08.837460875+05:30","level":"INFO","msg":"handler: closed","stream_id":"pw86el5b"}
+{"time":"2025-05-18T19:21:08.83748539+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"pw86el5b"}
+{"time":"2025-05-18T19:21:08.837531066+05:30","level":"INFO","msg":"sender: closed","stream_id":"pw86el5b"}
+{"time":"2025-05-18T19:21:08.837685068+05:30","level":"INFO","msg":"stream: closed","id":"pw86el5b"}

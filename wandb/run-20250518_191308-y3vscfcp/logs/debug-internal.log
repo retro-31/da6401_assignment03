@@ -1,0 +1,16 @@
+{"time":"2025-05-18T19:13:08.048844997+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/da6401_assignment03/wandb/run-20250518_191308-y3vscfcp/logs/debug-core.log"}
+{"time":"2025-05-18T19:13:08.15250668+05:30","level":"INFO","msg":"created new stream","id":"y3vscfcp"}
+{"time":"2025-05-18T19:13:08.152559271+05:30","level":"INFO","msg":"stream: started","id":"y3vscfcp"}
+{"time":"2025-05-18T19:13:08.15263505+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"y3vscfcp"}
+{"time":"2025-05-18T19:13:08.152693857+05:30","level":"INFO","msg":"handler: started","stream_id":"y3vscfcp"}
+{"time":"2025-05-18T19:13:08.152740441+05:30","level":"INFO","msg":"sender: started","stream_id":"y3vscfcp"}
+{"time":"2025-05-18T19:13:08.695125773+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-18T19:14:48.593570216+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-18T19:14:48.594040742+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-18T19:14:49.595597788+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.360658366,"progress":"175B/175B"},{"desc":"uploading output.log","runtime_seconds":0.36064782,"progress":"490B/490B"},{"desc":"uploading config.yaml","runtime_seconds":0.02007888,"progress":"876B/876B"}],"total_operations":3}}
+{"time":"2025-05-18T19:14:50.064125259+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-18T19:14:51.584290971+05:30","level":"INFO","msg":"stream: closing","id":"y3vscfcp"}
+{"time":"2025-05-18T19:14:51.58431814+05:30","level":"INFO","msg":"handler: closed","stream_id":"y3vscfcp"}
+{"time":"2025-05-18T19:14:51.584337486+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"y3vscfcp"}
+{"time":"2025-05-18T19:14:51.584363328+05:30","level":"INFO","msg":"sender: closed","stream_id":"y3vscfcp"}
+{"time":"2025-05-18T19:14:51.584415709+05:30","level":"INFO","msg":"stream: closed","id":"y3vscfcp"}
