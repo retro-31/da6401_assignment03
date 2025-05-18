@@ -1,0 +1,1 @@
+{"best_acc": 0.5513997246443323, "run_name": "LSTM_atten_enc1_atten_dec1_hd128_ed64_dr30_bs3", "config": {"embed_dim": 64, "hidden_dim": 128, "encoder_layers": 1, "decoder_layers": 1, "cell_type": "LSTM", "dropout": 0.3, "beam_size": 3, "max_len": 32, "batch_size": 64, "lr": 0.001, "epochs": 10}}
