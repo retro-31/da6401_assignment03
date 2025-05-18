@@ -107,6 +107,19 @@ with torch.no_grad():
 test_acc = correct / total
 wandb.log({"test_accuracy": test_acc})
 
+# ─── Dump all predictions to a TSV ────────────────────────────────────────
+OUT_DIR = "predictions_vanilla"
+os.makedirs(OUT_DIR, exist_ok=True)
+
+# records is a list of tuples (input_str, truth, pred)
+df = pd.DataFrame(records, columns=["input","reference","prediction"])
+out_path = os.path.join(OUT_DIR, "all_predictions.tsv")
+df.to_csv(out_path, sep="\t", index=False)
+print(f"✅ Saved all predictions to {out_path}")
+
+# If running under W&B, tell it to save that file
+wandb.save(out_path)
+
 # ─── 7) Log a random sample grid (10 rows) ──────────────────────────────
 sample = random.sample(records, k=10)
 table = wandb.Table(columns=["input","reference","prediction"], data=sample)
