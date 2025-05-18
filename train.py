@@ -38,8 +38,8 @@ def main():
         f"_dr{int(cfg.dropout*100)}"
         f"_bs{cfg.beam_size}"
     )
-    wandb.run.name = run_name
-    wandb.run.save()
+    wandb.run.name = run_name # type: ignore
+    wandb.run.save() # type: ignore
 
     # ── 3) prepare folders ──────────────────────────────────────────────
     os.makedirs("runs", exist_ok=True)

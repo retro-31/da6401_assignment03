@@ -1,0 +1,1 @@
+{"columns": ["input", "reference", "prediction"], "data": [["<sos>pooranpur", "1", "1"], ["<sos>samadhan", "2", "3"], ["<sos>likhkar", "1", "3"], ["<sos>spray", "2", "3"], ["<sos>thirake", "1", "1"], ["<sos>kabaddi", "6", "1"], ["<sos>dvc", "3", "3"], ["<sos>raadhe", "1", "1"], ["<sos>ayodhyanaath", "1", "1"], ["<sos>allergic", "3", "3"]]}
